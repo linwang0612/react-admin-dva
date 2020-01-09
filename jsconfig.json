@@ -2,11 +2,11 @@
     "compilerOptions": {
         "target": "ES6",
         "module": "commonjs",
-        "experimentalDecorators": true,
+        "experimentalDecorators": true
     },
     "exclude": [
         "node_modules",
         "export",
         ".vscode"
-    ],
+    ]
 }

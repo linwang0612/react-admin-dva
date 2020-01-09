@@ -50,5 +50,17 @@
     "dva": "^2.4.1",
     "qs": "^6.8.0",
     "history": "latest"
-  }
+  },
+  "description": "React 后台管理系统\r dva 数据流\r tabs 多页签管理页面",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changeIn/react-admin-dva-tabs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changeIn/react-admin-dva-tabs/issues"
+  },
+  "homepage": "https://github.com/changeIn/react-admin-dva-tabs#readme"
 }
