@@ -7,7 +7,9 @@ class DeleteModal extends React.Component {
       title: '提示',
       icon: <IconFont type="icondankuangtishianniu" />,
       content: '是否进行删除操作？',
-      style: { top: 'calc(50% - 96px)', position: 'relative', top: 100 },
+      style: { top: 'calc(50% - 96px)', position: 'relative',
+        // top: 100
+      },
       onOk: () => this.props.deleteOk()
     });
   }
