@@ -20,7 +20,7 @@ class PageOne extends React.Component {
     }
     render() {
         return (
-            <div>
+            <div style={{background:"#fff",padding:10,marginTop:-16}}>
                 <h1>Page One</h1>
                 <Button onClick={this.toChild1}>切换到内页1</Button>
                 <Button onClick={this.toChild2}>切换传数据</Button>

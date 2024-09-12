@@ -21,7 +21,7 @@ export default function Home(props) {
           <NavLeft />
         </Sider>
         <Layout>
-          <Content style={{ margin: 0, padding: 0, minHeight: 280 }}>
+          <Content style={{ margin: 0, padding: 10, minHeight: 280 }}>
             {props.children}
           </Content>
         </Layout>
